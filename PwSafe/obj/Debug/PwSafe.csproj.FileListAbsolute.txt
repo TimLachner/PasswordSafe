@@ -1,0 +1,189 @@
+C:\Users\123\source\repos\PwSafe\PwSafe\bin\Debug\PwSafe.exe.config
+C:\Users\123\source\repos\PwSafe\PwSafe\bin\Debug\PwSafe.exe
+C:\Users\123\source\repos\PwSafe\PwSafe\bin\Debug\PwSafe.pdb
+C:\Users\123\source\repos\PwSafe\PwSafe\obj\Debug\PwSafe.csprojAssemblyReference.cache
+C:\Users\123\source\repos\PwSafe\PwSafe\obj\Debug\PwSafe.startup.resources
+C:\Users\123\source\repos\PwSafe\PwSafe\obj\Debug\PwSafe.Properties.Resources.resources
+C:\Users\123\source\repos\PwSafe\PwSafe\obj\Debug\PwSafe.csproj.GenerateResource.cache
+C:\Users\123\source\repos\PwSafe\PwSafe\obj\Debug\PwSafe.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\PwSafe\PwSafe\obj\Debug\PwSafe.exe
+C:\Users\123\source\repos\PwSafe\PwSafe\obj\Debug\PwSafe.pdb
+C:\Users\123\source\repos\PwSafe\PwSafe\obj\Debug\PwSafe.register.resources
+C:\Users\123\source\repos\PwSafe\PwSafe\obj\Debug\PwSafe.pwlist.resources
+C:\Users\123\source\repos\PwSafe\PwSafe\obj\Debug\PwSafe.addpw.resources
+C:\Users\123\source\repos\PwSafe\PwSafe\obj\Debug\PwSafe.pwgen_settings.resources
+G:\PwSafe\bin\Debug\PwSafe.exe.config
+G:\PwSafe\bin\Debug\PwSafe.exe
+G:\PwSafe\bin\Debug\PwSafe.pdb
+G:\PwSafe\obj\Debug\PwSafe.csprojAssemblyReference.cache
+G:\PwSafe\obj\Debug\PwSafe.addpw.resources
+G:\PwSafe\obj\Debug\PwSafe.pwgen_settings.resources
+G:\PwSafe\obj\Debug\PwSafe.pwlist.resources
+G:\PwSafe\obj\Debug\PwSafe.register.resources
+G:\PwSafe\obj\Debug\PwSafe.Properties.Resources.resources
+G:\PwSafe\obj\Debug\PwSafe.csproj.GenerateResource.cache
+G:\PwSafe\obj\Debug\PwSafe.csproj.CoreCompileInputs.cache
+G:\PwSafe\obj\Debug\PwSafe.exe
+G:\PwSafe\obj\Debug\PwSafe.pdb
+G:\PwSafe\obj\Debug\PwSafe.login.resources
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\PwSafe.exe.config
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\PwSafe.exe
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\PwSafe.pdb
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\obj\Debug\PwSafe.addpw.resources
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\obj\Debug\PwSafe.login.resources
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\obj\Debug\PwSafe.pwgen_settings.resources
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\obj\Debug\PwSafe.pwlist.resources
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\obj\Debug\PwSafe.Register.resources
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\obj\Debug\PwSafe.Properties.Resources.resources
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\obj\Debug\PwSafe.csproj.GenerateResource.cache
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\obj\Debug\PwSafe.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\obj\Debug\PwSafe.exe
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\obj\Debug\PwSafe.pdb
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\obj\Debug\PwSafe.csproj.AssemblyReference.cache
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\obj\Debug\PwSafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\Google.Protobuf.dll
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\MySql.Data.dll
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\System.Buffers.dll
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\System.Memory.dll
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\ZstdNet.dll
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\Google.Protobuf.pdb
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\Google.Protobuf.xml
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\MySql.Data.xml
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\System.Buffers.xml
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\System.Memory.xml
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tim\Desktop\CRYPTEX\PwSafe\obj\Debug\PwSafe.csproj.CopyComplete
+D:\Cryptex\PwSafe\bin\Debug\PwSafe.exe.config
+D:\Cryptex\PwSafe\bin\Debug\PwSafe.exe
+D:\Cryptex\PwSafe\bin\Debug\PwSafe.pdb
+D:\Cryptex\PwSafe\bin\Debug\BouncyCastle.Crypto.dll
+D:\Cryptex\PwSafe\bin\Debug\Google.Protobuf.dll
+D:\Cryptex\PwSafe\bin\Debug\K4os.Compression.LZ4.dll
+D:\Cryptex\PwSafe\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Cryptex\PwSafe\bin\Debug\K4os.Hash.xxHash.dll
+D:\Cryptex\PwSafe\bin\Debug\MySql.Data.dll
+D:\Cryptex\PwSafe\bin\Debug\System.Buffers.dll
+D:\Cryptex\PwSafe\bin\Debug\System.Memory.dll
+D:\Cryptex\PwSafe\bin\Debug\System.Numerics.Vectors.dll
+D:\Cryptex\PwSafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cryptex\PwSafe\bin\Debug\Ubiety.Dns.Core.dll
+D:\Cryptex\PwSafe\bin\Debug\ZstdNet.dll
+D:\Cryptex\PwSafe\bin\Debug\Google.Protobuf.pdb
+D:\Cryptex\PwSafe\bin\Debug\Google.Protobuf.xml
+D:\Cryptex\PwSafe\bin\Debug\K4os.Compression.LZ4.xml
+D:\Cryptex\PwSafe\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Cryptex\PwSafe\bin\Debug\K4os.Hash.xxHash.xml
+D:\Cryptex\PwSafe\bin\Debug\MySql.Data.xml
+D:\Cryptex\PwSafe\bin\Debug\System.Buffers.xml
+D:\Cryptex\PwSafe\bin\Debug\System.Memory.xml
+D:\Cryptex\PwSafe\bin\Debug\System.Numerics.Vectors.xml
+D:\Cryptex\PwSafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Cryptex\PwSafe\obj\Debug\PwSafe.csproj.AssemblyReference.cache
+D:\Cryptex\PwSafe\obj\Debug\PwSafe.csproj.SuggestedBindingRedirects.cache
+D:\Cryptex\PwSafe\obj\Debug\PwSafe.addpw.resources
+D:\Cryptex\PwSafe\obj\Debug\PwSafe.pwgen_settings.resources
+D:\Cryptex\PwSafe\obj\Debug\PwSafe.pwlist.resources
+D:\Cryptex\PwSafe\obj\Debug\PwSafe.Register.resources
+D:\Cryptex\PwSafe\obj\Debug\PwSafe.Properties.Resources.resources
+D:\Cryptex\PwSafe\obj\Debug\PwSafe.csproj.GenerateResource.cache
+D:\Cryptex\PwSafe\obj\Debug\PwSafe.csproj.CoreCompileInputs.cache
+D:\Cryptex\PwSafe\obj\Debug\PwSafe.csproj.CopyComplete
+D:\Cryptex\PwSafe\obj\Debug\PwSafe.exe
+D:\Cryptex\PwSafe\obj\Debug\PwSafe.pdb
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\PwSafe.exe.config
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\PwSafe.exe
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\PwSafe.pdb
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\BouncyCastle.Crypto.dll
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\Google.Protobuf.dll
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\K4os.Compression.LZ4.dll
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\K4os.Hash.xxHash.dll
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\MySql.Data.dll
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\System.Buffers.dll
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\System.Memory.dll
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\System.Numerics.Vectors.dll
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\Ubiety.Dns.Core.dll
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\ZstdNet.dll
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\Google.Protobuf.pdb
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\Google.Protobuf.xml
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\K4os.Compression.LZ4.xml
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\K4os.Hash.xxHash.xml
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\MySql.Data.xml
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\System.Buffers.xml
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\System.Memory.xml
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\System.Numerics.Vectors.xml
+H:\Eigene Dateien\CRYPTEX\PwSafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Eigene Dateien\CRYPTEX\PwSafe\obj\Debug\PwSafe.csprojAssemblyReference.cache
+H:\Eigene Dateien\CRYPTEX\PwSafe\obj\Debug\PwSafe.addpw.resources
+H:\Eigene Dateien\CRYPTEX\PwSafe\obj\Debug\PwSafe.confirmation.resources
+H:\Eigene Dateien\CRYPTEX\PwSafe\obj\Debug\PwSafe.pwgen_settings.resources
+H:\Eigene Dateien\CRYPTEX\PwSafe\obj\Debug\PwSafe.pwlist.resources
+H:\Eigene Dateien\CRYPTEX\PwSafe\obj\Debug\PwSafe.Register.resources
+H:\Eigene Dateien\CRYPTEX\PwSafe\obj\Debug\PwSafe.Properties.Resources.resources
+H:\Eigene Dateien\CRYPTEX\PwSafe\obj\Debug\PwSafe.csproj.GenerateResource.cache
+H:\Eigene Dateien\CRYPTEX\PwSafe\obj\Debug\PwSafe.csproj.CoreCompileInputs.cache
+H:\Eigene Dateien\CRYPTEX\PwSafe\obj\Debug\PwSafe.csproj.CopyComplete
+H:\Eigene Dateien\CRYPTEX\PwSafe\obj\Debug\PwSafe.exe
+H:\Eigene Dateien\CRYPTEX\PwSafe\obj\Debug\PwSafe.pdb
+H:\Eigene Dateien\CRYPTEX\PwSafe\obj\Debug\PwSafe.categoryItem.resources
+H:\Eigene Dateien\CRYPTEX\PwSafe\obj\Debug\PwSafe.titelItem.resources
+H:\Eigene Dateien\CRYPTEX\PwSafe\obj\Debug\PwSafe.EditForm.resources
+H:\Eigene Dateien\CRYPTEX\PwSafe\obj\Debug\PwSafe.LoginForm.resources
+D:\Cryptex\PwSafe\obj\Debug\PwSafe.categoryItem.resources
+D:\Cryptex\PwSafe\obj\Debug\PwSafe.EditForm.resources
+D:\Cryptex\PwSafe\obj\Debug\PwSafe.titelItem.resources
+D:\Cryptex\PwSafe\obj\Debug\PwSafe.LoginForm.resources
+D:\PasswordSafe\PwSafe\bin\Debug\PwSafe.exe.config
+D:\PasswordSafe\PwSafe\bin\Debug\PwSafe.exe
+D:\PasswordSafe\PwSafe\bin\Debug\PwSafe.pdb
+D:\PasswordSafe\PwSafe\bin\Debug\BouncyCastle.Crypto.dll
+D:\PasswordSafe\PwSafe\bin\Debug\Google.Protobuf.dll
+D:\PasswordSafe\PwSafe\bin\Debug\K4os.Compression.LZ4.dll
+D:\PasswordSafe\PwSafe\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\PasswordSafe\PwSafe\bin\Debug\K4os.Hash.xxHash.dll
+D:\PasswordSafe\PwSafe\bin\Debug\MySql.Data.dll
+D:\PasswordSafe\PwSafe\bin\Debug\System.Buffers.dll
+D:\PasswordSafe\PwSafe\bin\Debug\System.Memory.dll
+D:\PasswordSafe\PwSafe\bin\Debug\System.Numerics.Vectors.dll
+D:\PasswordSafe\PwSafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PasswordSafe\PwSafe\bin\Debug\Ubiety.Dns.Core.dll
+D:\PasswordSafe\PwSafe\bin\Debug\ZstdNet.dll
+D:\PasswordSafe\PwSafe\bin\Debug\Google.Protobuf.pdb
+D:\PasswordSafe\PwSafe\bin\Debug\Google.Protobuf.xml
+D:\PasswordSafe\PwSafe\bin\Debug\K4os.Compression.LZ4.xml
+D:\PasswordSafe\PwSafe\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\PasswordSafe\PwSafe\bin\Debug\K4os.Hash.xxHash.xml
+D:\PasswordSafe\PwSafe\bin\Debug\MySql.Data.xml
+D:\PasswordSafe\PwSafe\bin\Debug\System.Buffers.xml
+D:\PasswordSafe\PwSafe\bin\Debug\System.Memory.xml
+D:\PasswordSafe\PwSafe\bin\Debug\System.Numerics.Vectors.xml
+D:\PasswordSafe\PwSafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PasswordSafe\PwSafe\obj\Debug\PwSafe.csproj.AssemblyReference.cache
+D:\PasswordSafe\PwSafe\obj\Debug\PwSafe.csproj.SuggestedBindingRedirects.cache
+D:\PasswordSafe\PwSafe\obj\Debug\PwSafe.addpw.resources
+D:\PasswordSafe\PwSafe\obj\Debug\PwSafe.categoryItem.resources
+D:\PasswordSafe\PwSafe\obj\Debug\PwSafe.EditForm.resources
+D:\PasswordSafe\PwSafe\obj\Debug\PwSafe.titelItem.resources
+D:\PasswordSafe\PwSafe\obj\Debug\PwSafe.LoginForm.resources
+D:\PasswordSafe\PwSafe\obj\Debug\PwSafe.pwgen_settings.resources
+D:\PasswordSafe\PwSafe\obj\Debug\PwSafe.pwlist.resources
+D:\PasswordSafe\PwSafe\obj\Debug\PwSafe.Register.resources
+D:\PasswordSafe\PwSafe\obj\Debug\PwSafe.Properties.Resources.resources
+D:\PasswordSafe\PwSafe\obj\Debug\PwSafe.csproj.GenerateResource.cache
+D:\PasswordSafe\PwSafe\obj\Debug\PwSafe.csproj.CoreCompileInputs.cache
+D:\PasswordSafe\PwSafe\obj\Debug\PwSafe.csproj.CopyComplete
+D:\PasswordSafe\PwSafe\obj\Debug\PwSafe.exe
+D:\PasswordSafe\PwSafe\obj\Debug\PwSafe.pdb

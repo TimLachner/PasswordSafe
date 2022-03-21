@@ -1,0 +1,14 @@
+﻿Passwordgen:
+seed verbessern!!!
+Datenbank sichern!
+
+nach Name in der Passwort liste suchen
+
+
+Design:
+Liste
+Hintergrund
+
+
+HEUTE:
+edit button Funktion
